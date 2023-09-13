@@ -1,10 +1,10 @@
 {
-"Title": "❌   قطع شدن فیلترشکن   ❌",
-"Description": "شما در کانال تلگرام ما عضو نیستید و این باعث قطع شدن فیلترشکن شما میشود ؛ لطفا با لمس روی عضویت زیر فورا به ما پیوندید و از قطع شدن فیلترشکن جلوگیری کنید ❤️👇🏻",
-"Link": "tg://join?invite=64LU9-DJKOwzYmI8",
-"ColorWave": "#00E5FF",
-"Color": "#00E5FF",
-"ColorWaveTwo": "#18FFFF",
+"Title": "☆  بروزرسانی جدید  ☆",
+"Description": "سلام دوست عزیزم 🌺\n\n- این نسخه از کار افتاده ، نسخه جدید پرسرعت ، مود و منتشر شده رو از کانال تلگرام ما دریافت کنید 🤍",
+"Link": "tg://resolve?domain=Vpn_Shield",
+"ColorWave": "#FFFF00",
+"Color": "#FFFF00",
+"ColorWaveTwo": "#FFD600",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,12 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "02122655555000",
-"ShowTime": "3",
-"Button": " عضویت اجباری ",
-"ButtonCancell": "  ",
-"Closure": "true",
+"MessageID": "1",
+"ShowTime": "999",
+"Button": "  دریافت نسخه جدید  ",
+"ButtonCancell": " بعدا ",
+"Closure": "false",
 "Show": "on"
 }
-
-
